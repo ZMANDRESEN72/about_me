@@ -1,0 +1,10 @@
+h1 {color: blue;
+}
+li {border: 2px; 
+border-color:yellow;
+}
+a {width:250px;
+height:250px;
+background-color:blue; 
+border: 2px;
+border-color: green;}
